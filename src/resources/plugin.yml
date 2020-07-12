@@ -1,0 +1,6 @@
+main: network.starplum.Essentials
+name: ClientEssentials
+version: network.starplum.git-21413.34151
+description: API for Cheatbreaker and Lunar Client.
+author: [Starplum Network, iMPDevMC / iDevMC]
+website: https://starplum.network/
