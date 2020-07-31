@@ -1,0 +1,39 @@
+title:
+   enabled: true
+   title:
+      newuser: '&5&lWelcome&7, %player%'
+      existinguser: '&5&lWelcome back'
+   subtitle: 
+      newuser: '&5&lWelcome to &dServer !'
+      existinguser: '&7Welcome back, %player%'
+
+lunar:
+   enabled: true
+   staff:
+      enabled: true
+      staffpermission: 'starplum.staff'
+      message: '&a&oStaff modules has been enabled.'
+   
+cheatbreaker:
+   enabled: true
+   staff:
+      enabled: true
+      staffpermission: 'starplum.staff'
+      message: '&a&oStaff modules has been enabled.'
+      
+   waypoint:
+      spawn: 
+         name: '&6Spawn'
+         x: 0
+         y: 100
+         z: 0
+         world: world
+         
+permissions:
+   root: 'starplum'
+   
+server:
+   prefix: '&5&lStarplum &8»' # used on chat
+   prefix2: '&5&lStarplum' # used on titles
+   name: 'Starplum World'
+   rawname: 'Starplum'
